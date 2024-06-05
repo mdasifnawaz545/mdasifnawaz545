@@ -1,0 +1,14 @@
+/* .btn{
+   position: absolute;
+    left: 27rem;
+    top: 45%;
+} */
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    position: absolute;
+    top:45%;
+}
