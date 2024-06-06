@@ -91,3 +91,55 @@
 // }
 // str.trueLength();
 
+// class User{
+//     constructor(username,password){
+//     this.username=username;
+//     this.password=password;
+//     }
+//     getInfo(){
+//         console.log(this.username+"  "+this.password);
+//     }
+// }
+
+// let newUser=new User("Mohammad Asif Nawaz",433443443434);
+// newUser.getInfo;
+
+// class NewUser extends User{
+//     constructor(username,password,email){
+//         super(username,password);
+//         this.email=email
+//     }
+//     getInfo(){
+//         console.log(`the username is ${this.username} and password is ${this.password} and his email id is ${this.email}`);
+//     }
+// }
+
+// const userNew=new NewUser("Mohammad Asif Nawaz","Password","mdasifnawaz545@gmail.com");
+// userNew.getInfo;
+
+// function setUser(username){
+//     this.username=username;
+// }
+
+// function getUser(){
+//     console.log(this.username);
+//     console.log(this.password);
+//     console.log(this.email);
+// }
+
+// function Myuser(username,password,email){
+//     setUser(this,username);
+//     this.password=password
+//     this.email=email;
+//     getUser(this);
+
+// }
+
+// Myuser("Mohammad Asif Nawaz","klldasjfeoi32808u","mdasifnawaz545@gmail.com");
+
+// const ref1=Myuser("Mohammad Asif Nawaz","klldasjfeoi32808u","mdasifnawaz545@gmail.com");
+// ref1;
+// const ref2=Myuser("Mohammad Arif Nawaz","2808u","mdarifnawaz545@gmail.com");
+// ref1;
+// ref2;
+
