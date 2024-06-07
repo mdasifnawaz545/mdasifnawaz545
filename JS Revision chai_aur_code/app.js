@@ -143,3 +143,27 @@
 // ref1;
 // ref2;
 
+// class User {
+//     constructor(username, password, email) {
+//         this.username = username;
+//         this.password = password;
+//         this.email = email;
+//     }
+//     get email() {
+//         console.log(`The Email is : ${this._email}`)
+//     }
+//     set email(val) {
+//         this._email = val;
+//     }
+// }
+
+// let user1=new User("Mohammad Asif Nawaz","jakhf32","mdasifnawaz545@gmail.com");
+// user1.email;
+
+function func(username,password){
+    this.username=this.username;
+    this.password=this.password;
+    return this;
+}
+const ref=func("MOHAMMAD ASIF NAWAZ","HAFW932923    ");
+console.log(ref);
