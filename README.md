@@ -1,6 +1,6 @@
 # Hello, I'm Md Asif Nawaz! 👋
 
-I'm a *Full Stack Developer* and *Computer Science Engineer*, passionate about building efficient and scalable web applications.
+I'm a *Full Stack Developer and a Computer Science Engineering Enthusiast*, passionate about building efficient and scalable web applications.
 
 - 🎓 B.Tech in CSE | Kalinga Institute of Industrial Technology
 - 🌱 Currently learning *Advanced JavaScript frameworks* 
