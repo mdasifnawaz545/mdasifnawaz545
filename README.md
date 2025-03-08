@@ -2,6 +2,13 @@
 
 I'm a *Full Stack Developer and a Computer Science Engineering Enthusiast*, passionate about building efficient and scalable web applications.
 
+- 🎓 B.Tech in CSE | Kalinga Institute of Industrial Technology
+- 🌱 Currently learning *Advanced JavaScript frameworks* & *DevOps*
+- 👯 Looking to collaborate on *open-source projects*
+- 💬 Ask me anything about *web development, JavaScript, and DevOps*
+- 📫 Reach me at: *[mdasifnawaz545@gmail.com](mailto:mdasifnawaz545@gmail.com)*
+- ⚡ Fun fact: *I love exploring new technologies and applying them to real-world projects.*
+
 ---
 
 # Tech Stack
