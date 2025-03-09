@@ -42,6 +42,7 @@ I'm a *Full Stack Developer and a Computer Science Engineering Enthusiast*, pass
 *Tools & Cloud*  
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=white)
