@@ -23,6 +23,7 @@ I'm a *Full Stack Developer and a Computer Science Engineering Enthusiast*, pass
 *Front-End*  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=FFFFFF)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF)
 ![Material UI](https://img.shields.io/badge/-Material--UI-007fff?style=flat&logo=mui&logoColor=white)
@@ -38,6 +39,7 @@ I'm a *Full Stack Developer and a Computer Science Engineering Enthusiast*, pass
 *Database*  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=FFFFFF)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 
 *Tools & Cloud*  
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white)
@@ -46,6 +48,7 @@ I'm a *Full Stack Developer and a Computer Science Engineering Enthusiast*, pass
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=FFFFFF)
 
 ---
